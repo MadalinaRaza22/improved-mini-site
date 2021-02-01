@@ -1,0 +1,65 @@
+body {
+  width: 1366px;
+  background-color: #fffafa;
+}
+
+li {
+  margin-bottom: 5px;
+  font-family: fantasy;
+}
+
+h1 {
+    font-family: "Verdana", sans-serif;
+    word-spacing: 0.2px;
+    text-shadow: 1.5px 1.5px grey;
+}
+
+h2 {
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 13.5px;
+  font-family: "Trebuchet MS";
+}
+
+.nav {
+        display: inline-block;
+        width: 200px;
+        padding: 0 8px 0 45px;
+      }
+
+.section {
+        display: inline-block;
+        width: 1053px;
+        padding: 0 50px 0 8px;
+        border-left: 2px solid blue;
+        vertical-align: top;
+      }
+
+.centre {
+  text-align: center;
+}
+
+img.floatl {
+  float: left;
+  padding-right: 20px;
+  padding-right: 20px;
+}
+
+table {
+  border: solid 2px grey;
+  border-collapse: collapse;
+}
+td, th {
+  border: solid 1px grey;
+}
+td {
+  padding-left: 5px;
+  padding-right: 5px;
+  font-family: "Trebuchet MS";
+  font-size: 14px;
+}
+th {
+  background-color: grey;
+}
